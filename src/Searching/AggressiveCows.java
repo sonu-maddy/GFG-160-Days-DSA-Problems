@@ -1,4 +1,5 @@
 package Searching;
+import  java.util.*;
 
 public class AggressiveCows {
     public static boolean isPossible(int[] stalls , int k , int mid){
